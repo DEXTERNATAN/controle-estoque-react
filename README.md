@@ -5,4 +5,4 @@ Sistema de controle de estoque usando react
 yarn
 
 # Iniciar a aplicação
-webpack
+ webpack-dev-server
