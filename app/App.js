@@ -1,4 +1,5 @@
-var React = require('react');
-var ReactDOM = require('react-dom');
+import React from 'react';
+import ReactDOM from 'react-dom';
+import Home from './components/Home';
 
-ReactDOM.render(<h1>Controle de estoque para lojas</h1>, document.getElementById('app'));
+ReactDOM.render(<Home />, document.getElementById('app'));
