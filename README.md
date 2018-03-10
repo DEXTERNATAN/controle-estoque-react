@@ -10,7 +10,7 @@ O paralelo entre um estoque inventariado e uma conta corrente faz sentido consid
 # Controle de estoque React
 Sistema de controle de estoque usando reactJs.
 
-# Instalar os dependencias
+# Instalar as dependências
 yarn
 
 # Iniciar a aplicação
